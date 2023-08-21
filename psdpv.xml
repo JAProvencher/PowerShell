@@ -1,0 +1,51 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.Management.Automation.DefaultParameterDictionary</T>
+      <T>System.Collections.Hashtable</T>
+      <T>System.Object</T>
+    </TN>
+    <DCT>
+      <En>
+        <S N="Key">Export-Csv:NoTypeInformation</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Out-Default:OutVariable</S>
+        <S N="Value">LastResult</S>
+      </En>
+      <En>
+        <S N="Key">Receive-Job:Keep</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Install-Module:AllowClobber</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Install-Module:Force</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Out-File:Encoding</S>
+        <S N="Value">utf8</S>
+      </En>
+      <En>
+        <S N="Key">ConvertTo-Csv:NoTypeInformation</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Install-Module:SkipPublisherCheck</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Remove-Item:Verbose</S>
+        <B N="Value">true</B>
+      </En>
+      <En>
+        <S N="Key">Unblock-File:Verbose</S>
+        <B N="Value">true</B>
+      </En>
+    </DCT>
+  </Obj>
+</Objs>

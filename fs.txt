@@ -1,0 +1,10 @@
+$Mft
+$LogFile
+$Volume
+$AttrDef
+$Bitmap
+$Boot
+$BadClus
+$Secure
+$UpCase
+$Extend

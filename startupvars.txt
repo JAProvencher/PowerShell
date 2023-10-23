@@ -53,3 +53,4 @@ true
 VerbosePreference
 WarningPreference
 WhatIfPreference
+startupVars

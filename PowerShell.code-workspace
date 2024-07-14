@@ -7,5 +7,7 @@
 			"path": "../Source"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"powershell.cwd": "PowerShell"
+	}
 }
